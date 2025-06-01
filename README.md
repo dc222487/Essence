@@ -1,2 +1,2 @@
 # Essence
-A short 2d platform game made as a personal project using pygame
+A short 2d platform horror-esque game made by me and another friend using pygame
